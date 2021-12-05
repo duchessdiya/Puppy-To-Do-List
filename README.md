@@ -1,2 +1,2 @@
 # PuppyProject
-to do list app that has a puppy display encouraging messages on completion
+An app where students can put down assignments they have to do and a puppy will display encouraging messages on completion/reminders.
